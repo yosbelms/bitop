@@ -1,0 +1,29 @@
+{
+    "author"      : "Yosbel Marin",
+    "name"        : "bitop",
+    "version"     : "0.0.0",
+    "license"     : "MIT",
+    "description" : "Funtional JavaScript library for bitwise operations",
+    "repository"  : "https://github.com/yosbelms/bitop.git",
+
+    "main": "./bitop",
+
+    "scripts": {
+        "test"   : "node ./test.js"
+    },
+
+    "dependencies": {
+        "ramda"   : "*"
+    },
+
+    "devDependencies": {
+        "jasmine" : "2.3.2"
+    },
+
+    "keywords": [
+        "bitwise",
+        "ramda",
+        "binary",
+        "math"
+    ]
+}
