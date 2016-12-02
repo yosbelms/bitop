@@ -79,6 +79,6 @@ bitop.zrshift(4, 1)    //=> 2
 // 0100 zrshift 0001 = 0010
 ```
 
-How bitwise operations works https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators
+Docs about bitwise operations https://developer.mozilla.org/it/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators
 
 MIT (c) 2016 Yosbel Marín
